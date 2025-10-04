@@ -33,6 +33,6 @@ Every tool, attack, and defense you study will be part of your Guardian journey.
 ---
 
 ## 🏁 Start Here
-➡️ [Zone 1 – The Village of Infocyte](Zone1_Basics/MiniQuest1_CIA_Triad.md)
+➡️ [Zone 1 – The Village of Infocyte](Zone1_Basics/Zone1_Overview.md)
 
 “Knowledge is your shield, logic your sword. Let the quest begin.”
