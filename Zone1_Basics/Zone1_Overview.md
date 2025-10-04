@@ -3,8 +3,8 @@
 ## Mini-Quests
 
 1. [Mini-Quest 1: Learn the CIA Triad](MiniQuest1_CIA_Triad.md) → Unlock *Shield of Confidentiality*
-2. [Mini-Quest 2: Understand Authentication & Authorization](Zone1_Basics/MiniQuest2_Authentication_Authorization.md) → Unlock *Key of Integrity*
-3. [Mini-Quest 3: Study Risk Management](Zone1_Basics/MiniQuest3_Risk_Management.md) → Unlock *Armor of Availability*
+2. [Mini-Quest 2: Understand Authentication & Authorization](MiniQuest2_Authentication_Authorization.md) → Unlock *Key of Integrity*
+3. [Mini-Quest 3: Study Risk Management](MiniQuest3_Risk_Management.md) → Unlock *Armor of Availability*
 
 
 ## 👾 Boss Battle – The Phisher
